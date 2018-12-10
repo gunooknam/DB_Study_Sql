@@ -6,12 +6,11 @@ Fundament_Database_System 책 공부를 위한 쿼리문 입력해놓은 것입�
 
 ### ER-Diagram
 
-<img src="./ER_diagram.PNG" style="width:60%; height:auto">
-
+<img src="./ER_diagram.PNG" width="50%" height="auto"></img>
 
 
 ### Company Schema
 
-<img src="./Company_Schema.PNG" style="width:60%; height:auto">
+<img src="./Company_Schema.PNG" width="50%" height="auto"></img>
 
 
